@@ -13,3 +13,6 @@
 
 ### NFNet [ [inference](https://www.kaggle.com/yasufuminakama/seti-nfnet-l0-starter-inference) ]/[ [training](https://www.kaggle.com/yasufuminakama/seti-nfnet-l0-starter-training) ]
 - nfnet_l0 : 0.95
+
+## Final Model
+- KNN
