@@ -2,7 +2,7 @@
 
 ## Single Model
 ### EfficientNet [ [training and inference](https://www.kaggle.com/nerocube/efficientnet-pretrained) ]
-- B0: 0.95
+- B0: 0.95 > [0.97](https://www.kaggle.com/finlay/seti-e-t-efficientnet-starter-code)
 - B1: 0.97
 - B2: 0.96
 - B3: 0.96
