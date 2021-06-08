@@ -13,6 +13,7 @@
 
 ### NFNet [ [inference](https://www.kaggle.com/yasufuminakama/seti-nfnet-l0-starter-inference) ] / [ [training](https://www.kaggle.com/yasufuminakama/seti-nfnet-l0-starter-training) ]
 - nfnet_l0 : 0.95
+- nfnet_l03c : [0.96](https://www.kaggle.com/awsaf49/seti-bl-nfnet-l0-3-channels?select=submission.csv)
 
 ### ResNet[[training and inference](https://www.kaggle.com/ttahara/seti-e-t-resnet18d-baseline?select=submission.csv)]
 - 18d: 0.97
